@@ -8,6 +8,8 @@ import android.widget.EditText
 
 
 
+//This program is not done. There are a few bugs that I need to fix and I need to make sure the results
+// appear in the output
 
 class MainActivity : ComponentActivity() {
 
